@@ -1,7 +1,7 @@
 # SmartQuizzer - AI in Personalized Learning
 
 # Problem Statement:
-Many students in India struggle to practice coding and academic questions in an effective and engaging way. Existing platforms often provide fixed question sets with limited personalization, making it difficult for students to focus on specific topics or assess their understanding in real time. Additionally, students lack instant, constructive feedback to identify mistakes and improve their problem-solving skills.
+Many students struggle to practice coding and academic questions in an effective and engaging way. Existing platforms often provide fixed question sets with limited personalization, making it difficult for students to focus on specific topics or assess their understanding in real time. Additionally, students lack instant, constructive feedback to identify mistakes and improve their problem-solving skills.
 To address this challenge, there is a need for an intelligent quiz generation platform that allows students to request questions on topics of their choice. Using AI, the platform can dynamically generate quizzes, provide immediate feedback, and guide students toward improvement. By adding an interactive quiz-based approach, the platform aims to make learning more personalized, engaging, and effective for students.
 
 ## Overview
