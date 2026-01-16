@@ -1,4 +1,4 @@
-# SmartQuizzer - AI in Personalized Learning
+# AI in Personalized Learning
 
 # Problem Statement:
 Many students struggle to practice coding and academic questions in an effective and engaging way. Existing platforms often provide fixed question sets with limited personalization, making it difficult for students to focus on specific topics or assess their understanding in real time. Additionally, students lack instant, constructive feedback to identify mistakes and improve their problem-solving skills.
