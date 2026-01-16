@@ -5,7 +5,7 @@ Many students struggle to practice coding and academic questions in an effective
 To address this challenge, there is a need for an intelligent quiz generation platform that allows students to request questions on topics of their choice. Using AI, the platform can dynamically generate quizzes, provide immediate feedback, and guide students toward improvement. By adding an interactive quiz-based approach, the platform aims to make learning more personalized, engaging, and effective for students.
 
 ## Overview
-SmartQuizzer is an AI-driven adaptive quiz generation platform developed under the Infy Project. It dynamically adjusts quiz difficulty based on user performance and provides instant feedback, progress tracking, and personalized learning recommendations. The system leverages Django for backend development, MySQL for data management, and Google's Gemini API for intelligent quiz suggestions.
+Developed a quiz Platform. It dynamically adjusts quiz difficulty based on user performance and provides instant feedback, progress tracking, and personalized learning recommendations. The system leverages Django for backend development, MySQL for data management, and Google's Gemini API for intelligent quiz suggestions.
 
 
 
